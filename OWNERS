@@ -1,0 +1,6 @@
+# See the OWNERS docs at https://go.k8s.io/owners
+
+approvers:
+  - fanminshi       # Fanmin Shi <fanmin.shi@coreos.com>
+  - lburgazzoli     # Luca Burgazzoli <lburgazzoli@gmail.com>
+  - vorburger       # Michael Vorburger <mike@vorburger.ch>
